@@ -1,2 +1,6 @@
 This is original file.
+<<<<<<< HEAD
 Updated by B..
+=======
+Updated by A
+>>>>>>> 2c9ee5b51744d792eebd173f21703908c3a030e3
